@@ -1,8 +1,9 @@
 # > whoami
+```text
+$ cat /etc/profile.d/manuel.sh
 
-## $ Manuel Graya — CS Student & Open Source Advocate
+Manuel Graya — CS Student & Open Source Advocate
 
-```
 ██████╗ ███████╗██╗   ██╗
 ██╔══██╗██╔════╝██║   ██║
 ██║  ██║█████╗  ██║   ██║
