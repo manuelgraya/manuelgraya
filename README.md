@@ -18,7 +18,7 @@ Manuel Graya — CS Student & Open Source Advocate
 OS: CachyOS (Arch-based) x86_64
 Host: Universidad de Cádiz, Computer Engineering
 Age: 23
-Shell: zsh
+Shell: fish
 Philosophy: "Keep it simple and stupid"
 ```
 
