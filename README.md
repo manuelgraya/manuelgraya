@@ -38,7 +38,7 @@ Philosophy: "Keep it simple and stupid"
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=39ff14)
 ![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=39ff14)
 ![HTML](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=39ff14)
-![CLIPS](https://img.shields.io/badge/CLIPS-Expert_System-0a0a0a?style=for-the-badge&logoColor=39ff14)
+![CLIPS](https://img.shields.io/badge/CLIPS-0a0a0a?style=for-the-badge&logoColor=39ff14)
 ![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=39ff14)
 
 ---
